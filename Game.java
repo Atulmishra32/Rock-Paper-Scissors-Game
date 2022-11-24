@@ -21,9 +21,7 @@ public static void main(String[] args) {
     else{
         System.out.println("You Lose!");
     }
-
     System.out.println("Computer Choice: "+r);
-
     sc.close();
     }
 }
